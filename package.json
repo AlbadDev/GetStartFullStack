@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/AlbadDev/GetStartFullStack/issues"
   },
-  "homepage": "https://github.com/AlbadDev/GetStartFullStack#readme"
+  "homepage": "https://github.com/AlbadDev/GetStartFullStack#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2",
+    "mongoos": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
